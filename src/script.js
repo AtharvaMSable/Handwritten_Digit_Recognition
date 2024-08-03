@@ -4,7 +4,7 @@ import { TextBufferGeometry } from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 // script.js
 // script.js
-import Sketchpad from './Sketchpad_new'; // Update the import statement
+import {Sketchpad} from './Sketchpad_new'; // Update the import statement
 import './style.css';
 
 /// prep
